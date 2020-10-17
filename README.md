@@ -7,7 +7,7 @@
 ![COVID-19 Impact](Images/Story_1_Slide_1.JPG)
 
 
-![COVID-19 Impact](Images/Story_1_Slide_2.JPG)
+![COVID-19 Impact](Images/Story_1_slide_2.JPG)
 )
 
 ## Consumer Trends
