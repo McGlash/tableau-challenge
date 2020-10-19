@@ -41,9 +41,9 @@ In 2020, there was increased usage amoung those 25 years old and younger and tho
 
 ## Station Usage
 
-![Station Maps](Images/Station_dashboard.JPG)
-
 Despite more bikes available than in prior years, the 2020 stock has seen the lowest average use. 
 
 Generally, the most common stations for the start of trips, which are located in Manhattan, are also the top stations to end trips. Unlike origin stations, users's destinations stations also occasionally include other boroughs.  
 
+
+![Station Maps](Images/Station_dashboard.JPG)
