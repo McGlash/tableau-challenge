@@ -1,6 +1,6 @@
 # Citi Bike Analytics
 
-![intro](Images/intro.png)
+![intro](Images/citi-bike-station-bikes.jpg)
 
 ## Impact of COVID-19 on usage
 
